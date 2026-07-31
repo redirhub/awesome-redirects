@@ -1,4 +1,4 @@
-# Awesome Redirects
+# Awesome Redirects [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A list of awesome URL redirect resources, tools, configurations, and best practices.
 
