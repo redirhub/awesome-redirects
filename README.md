@@ -1,5 +1,5 @@
 # Awesome Redirects [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-<img src="media/redirs-logo.png" alt="Redirects Logo" align="right" style="height: 120px; width: 120px">
+<img src="media/redirs-logo.png" alt="Redirects Logo" align="right" style="height: 120px; width: 120px; margin-bottom: 30px">
 Resources for configuring, testing, migrating, and operating URL redirects across web servers, CDNs, and applications.
 
 ## Contents
