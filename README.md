@@ -1,5 +1,5 @@
 # Awesome Redirects [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
+<img src="media/redirs-logo.png" alt="Redirects Logo" align="right" style="height: 120px; width: 120px">
 > A list of awesome URL redirect resources, tools, configurations, and best practices.
 
 This repository collects tools, guides, configurations, and strategies for managing URL redirects, from simple 301 redirects to regex-based routing at scale.
