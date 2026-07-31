@@ -11,7 +11,6 @@ This repository collects tools, guides, configurations, and strategies for manag
 - [Best Practices](#best-practices)
 - [SEO & Migration Guides](#seo--migration-guides)
 - [Open Source Projects](#open-source-projects)
-- [Contributing](#contributing)
 
 ## Tools & Platforms
 
@@ -36,7 +35,3 @@ Open-source redirect and link-management projects are catalogued in [**Redirect 
 ## Contributing
 
 Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
