@@ -21,15 +21,16 @@
 
 ## Managed Redirect Services
 
+- [Bitly](https://bitly.com/) - Link-management platform for branded short links, QR codes, analytics, and campaign tracking.
+- [BL.INK](https://www.bl.ink/) - Enterprise link-management platform with branded links, analytics, and campaign controls.
+- [QuitURL](https://quiturl.com/) - Link-management platform combining branded short links, QR codes, bio pages, and analytics.
+- [Rebrandly](https://www.rebrandly.com/) - Branded link platform for custom domains, link management, analytics, and team workflows.
+- [RedirHub](https://redirhub.com/) - Hosted redirect management with rule-based routing, automated SSL, bulk operations, and analytics.
 - [redirect.pizza](https://redirect.pizza/) - Managed domain redirect service with automatic HTTPS, analytics, APIs, and rule-based traffic steering.
 - [redirection.io](https://redirection.io/) - Redirect management platform using an agent-based approach for applying rules on your infrastructure.
-- [Urllo](https://www.urllo.com/) - Managed URL and domain redirect platform with bulk import, redirect checking, analytics, and API integrations.
-- [Bitly](https://bitly.com/) - Link-management platform for branded short links, QR codes, analytics, and campaign tracking.
-- [Rebrandly](https://www.rebrandly.com/) - Branded link platform for custom domains, link management, analytics, and team workflows.
 - [Short.io](https://short.io/) - Branded URL shortener with custom domains, analytics, and API-driven link management.
-- [BL.INK](https://www.bl.ink/) - Enterprise link-management platform with branded links, analytics, and campaign controls.
 - [TinyURL](https://tinyurl.com/) - URL shortener for creating and managing short links, including branded-link options.
-- [QuitURL](https://quiturl.com/) - Link-management platform combining branded short links, QR codes, bio pages, and analytics.
+- [Urllo](https://www.urllo.com/) - Managed URL and domain redirect platform with bulk import, redirect checking, analytics, and API integrations.
 
 ## CDN and Edge Redirects
 
