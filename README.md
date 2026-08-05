@@ -15,8 +15,6 @@ Resources for configuring, testing, migrating, and operating URL redirects acros
 
 ## Tools & Platforms
 
-- [Redirect Tools](https://github.com/redirhub/redirect-tools#readme) - A directory of managed redirect services, CDN and edge platforms, hosting providers, web servers, open-source applications, CMS integrations, and redirect testing tools.
-
 ### Managed Redirect Services
 
 - [redirect.pizza](https://redirect.pizza/) - Managed domain redirect service with automatic HTTPS, analytics, APIs, and rule-based traffic steering.
