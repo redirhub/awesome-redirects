@@ -1,9 +1,12 @@
 # Awesome Redirects [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-<img src="media/redirs-logo.png" alt="Redirects Logo" align="right" width="120" height="120">
 
-Resources for configuring, testing, migrating, and operating URL redirects across web servers, CDNs, and applications.
+> Routing a request from one URL to another.
 
-<br clear="right"><div style="clear: right"></div>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Redirections">
+    <img src="media/redirs-logo.png" alt="Awesome Redirects logo" width="150" height="150">
+  </a>
+</p>
 
 ## Contents
 
